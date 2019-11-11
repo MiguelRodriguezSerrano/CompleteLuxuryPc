@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "blogapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.5.0",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "blogapp",
+    "packageFolder": "blogapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjkxOTY3ZTkxNmIyZDYzNGRmN2U0MzM0YjU5YTk3ODcyNGI3MjljOGVkYmRiNTIwMzE2Y2Y2NDk4YzIyY2IzY2Q1MWM1YjQ5ODQ5NzE1N2M0M2FjZDg3MWYxYjI0Yjg0N2IxODRiNmU4NDBiNjg5Mjc1ZTgyMDhmYjMxMGQ3ZDA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
